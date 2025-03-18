@@ -79,10 +79,5 @@ Projeye katkıda bulunmak isterseniz **pull request** açabilirsiniz! Önerileri
 
 ---
 
-## 📄 Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
-
----
-
 Made with ❤️ by Sinem Güneş ❤️
 

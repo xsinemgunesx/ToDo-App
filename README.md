@@ -1,7 +1,6 @@
 # TodoApp
 
-![todoApp-1](https://github.com/user-attachments/assets/ebc0c512-3021-45f2-8741-e29d6d0dcd23)
-![todoApp-2](https://github.com/user-attachments/assets/57aa905b-6c82-4a0a-86e4-db0a6d806b9d)
+
 
 
 
@@ -62,7 +61,8 @@ npx react-native run-ios      # iOS için
 
 | Yapılacaklar Ekranı |
 |----------------------|
-| ![Screenshot](todoApp-1.jpg) |
+| ![Screenshot](![todoApp-1](https://github.com/user-attachments/assets/ebc0c512-3021-45f2-8741-e29d6d0dcd23)
+![todoApp-2](https://github.com/user-attachments/assets/57aa905b-6c82-4a0a-86e4-db0a6d806b9d)) |
 
 ---
 
@@ -84,5 +84,5 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 
 ---
 
-Made with ❤️ by [Senin Adın]
+Made with ❤️ by Sinem Güneş ❤️
 

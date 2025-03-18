@@ -1,6 +1,9 @@
 # TodoApp
 
-![TodoApp Screenshot](todoApp-1.jpg)
+![todoApp-1](https://github.com/user-attachments/assets/ebc0c512-3021-45f2-8741-e29d6d0dcd23)
+![todoApp-2](https://github.com/user-attachments/assets/57aa905b-6c82-4a0a-86e4-db0a6d806b9d)
+
+
 
 ## 📌 Proje Açıklaması
 React Native kullanarak geliştirilmiş modern ve şık bir **Yapılacaklar Listesi (To-Do List)** uygulamasıdır. Uygulama, yapılacak görevleri ekleyip tamamlandı olarak işaretlemeye olanak tanır.
